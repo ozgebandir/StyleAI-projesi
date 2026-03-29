@@ -17,7 +17,7 @@ StyleAI; **Gemini** ve **Cloud AI** entegrasyonu sayesinde anlık hava durumunu 
 
 ## 🔗 Linkler
 * **Canlı Demo:** https://outfit-planner-ai--bandirozge.replit.app/
-* **Demo Video:** # 🌦️ StyleAI: Yapay Zeka Destekli Akıllı Stil Asistanı
+* **Demo Video:** https://youtu.be/lyLJhGPMi4M?si=uX6usONCzGXyZFoR
 
 **StyleAI**, değişken hava koşullarına uyum sağlayamama sorununu teknolojiyle çözen, sağlık sistemine katkı odaklı bir stil asistanıdır.
 
